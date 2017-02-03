@@ -158,8 +158,8 @@ int main(void)
 	printList(head);
 	printf("\n");
 
-	mem_free(head);
+	/*mem_free(head);
 	printf("Memory Freed\n\n");
 	printList(head);
-	return 0;
+	return 0;*/
 } 
